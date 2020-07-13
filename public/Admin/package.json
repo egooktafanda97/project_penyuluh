@@ -1,0 +1,25 @@
+{
+  "name": "adminbsb-materialdesign",
+  "version": "1.0.7",
+  "description": "AdminBSB - Free admin panel that is based on Bootstrap 3.x with Material Design",
+  "main": "js/admin.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurayyarar/AdminBSBMaterialDesign.git"
+  },
+  "author": "Güray Yarar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurayyarar/AdminBSBMaterialDesign/issues"
+  },
+  "homepage": "https://github.com/gurayyarar/AdminBSBMaterialDesign#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "material-design-icons": "^3.0.1",
+    "material-design-icons-iconfont": "^5.0.1",
+    "sweetalert": "^2.1.2",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5"
+  }
+}
